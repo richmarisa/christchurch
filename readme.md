@@ -93,3 +93,8 @@ Now that you’ve edited your configuration variables and know how to customize 
 # options: dev, prod
 npm run dev
 ```
+
+  ./vendor/bin/jigsaw build
+
+  ./vendor/bin/jigsaw serve
+
