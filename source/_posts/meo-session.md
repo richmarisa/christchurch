@@ -1,14 +1,14 @@
 ---
 extends: _layouts.post
 section: content
-title: Michael Owen session recordings
+title: Michael Owens session recordings
 date: 2022-02-14
-description: A list of recordings from our session with Michael Owen
+description: A list of recordings from our session with Michael Owens
 cover_image: /assets/img/meo-conducting.jpg
 author: Christ Church
 ---
 
-Here is a set of recordings made during our session with Michael Owen on February 6, 2022.  Yes, 3b comes before 3a :-)
+Here is a set of recordings made during our session with Michael Owens on February 6, 2022.  Yes, 3b comes before 3a :-)
 
 - [Part 1](/assets/audio/meo-2-6-22-p1.mp3)
 - [Part 2](/assets/audio/meo-2-6-22-p2.mp3)
