@@ -13,16 +13,16 @@ Here is a set of recordings made during our session with Michael Owens on Februa
 Yes, 3b comes before 3a :-)
 
 ### [Part 1](/assets/audio/meo-2-6-22-p1.mp3)
-- 0:00  28 Psalm 11 Bourbon
-- 5:30  63 Psalm 26 Canaan
-- 9:30  99 Psalm 45 Neilsen
-- 16:30 75 Psalm 32 Vox Dilecti
-- 26:50 112  Psalm 50 Old 104th
-- 35:30  133 Psalm 60 Scourge
-- 41:45 218 Psalm 104a Selig Die Ihr
-- 47:43 219 Psalm 104b Ash Grove 
-- 48:45 310 Psalm 139a Land of Rest
-- 52:00 139 Psalm 63 Tallis Third Mode
+- 0:00  [28 Psalm 11 Bourbon](/assets/psalms/028_Psalm_11_Bourbon.mp3)
+- 5:30  [63 Psalm 26 Canaan](/assets/psalms/063_Psalm_26_Canaan_Bailey.mp3)
+- 9:30  [99 Psalm 45 Neilsen](/assets/psalms/099_Psalm_45_Nielsen.mp3)
+- 16:30 [75 Psalm 32 Vox Dilecti](/assets/psalms/075_Psalm_32_Vox_Dilecti.mp3)
+- 26:50 [112  Psalm 50 Old 104th](/assets/psalms/112_Psalm_50_Old_104th.mp3)
+- 35:30 [133 Psalm 60 Scourge](/assets/psalms/133_Psalm_60_Scourge.mp3)
+- 41:45 [218 Psalm 104a Selig Die Ihr](/assets/psalms/218_Psalm_104a_Selig_Die_Ihr.mp3)
+- 47:43 [219 Psalm 104b Ash Grove](/assets/psalms/219_Psalm_104b_Ash_Grove.mp3)
+- 48:45 [310 Psalm 139a Land of Rest](/assets/psalms/310_Psalm_139_A_Land_of_Rest.mp3)
+- 52:00 [139 Psalm 63 Tallis Third Mode](/assets/psalms/139_Psalm_63_Third_Mode.mp3)
 
 ### [Part 2](/assets/audio/meo-2-6-22-p2.mp3)
 - 0:00 139 Psalm 63 Tallis Third Mode (harmony)
