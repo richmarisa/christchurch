@@ -25,13 +25,13 @@ Yes, 3b comes before 3a :-)
 - 52:00 [139 Psalm 63 Tallis Third Mode](/assets/psalms/139_Psalm_63_Third_Mode.mp3)
 
 ### [Part 2](/assets/audio/meo-2-6-22-p2.mp3)
-- 0:00 139 Psalm 63 Tallis Third Mode (harmony)
-- 11:30 236 Psalm 112 Vertrauen
-- 15:30 167 Psalm 75 Genevan (Brother Down!)
-- 18:40 300 Psalm 135 Wareham
-- 25:50 167 Psalm 75 Genevan (harmony)
-- 42:20 231 Psalm 109b Penderi
-- 47:15 337 Song of Jonah
+- 0:00 139 [Psalm 63 Tallis Third Mode](/assets/psalms/139_Psalm_63_Third_Mode.mp3) (harmony)
+- 11:30 [236 Psalm 112 Vertrauen](/assets/psalms/236_Psalm_112_Vertrauen.mp3)
+- 15:30 [167 Psalm 75 Genevan](/assets/psalms/167_Psalm_75_Genevan.mp3) (Brother Down!)
+- 18:40 300 Psalm 135 Wareham (mp3 not available)
+- 25:50 [167 Psalm 75 Genevan](/assets/psalms/167_Psalm_75_Genevan.mp3) (harmony)
+- 42:20 [231 Psalm 109b Penderi](/assetes/psalms/231_Psalm_109b_Penderi.mp3)
+- 47:15 337 Song of Jonah (mp3 not available)
 
 
 ### [Part 3b](/assets/audio/meo-2-6-22-p3_1b.mp3)
