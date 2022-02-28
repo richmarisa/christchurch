@@ -30,12 +30,26 @@ Yes, 3b comes before 3a :-)
 - 15:30 [167 Psalm 75 Genevan](/assets/psalms/167_Psalm_75_Genevan.mp3) (Brother Down!)
 - 18:40 300 Psalm 135 Wareham (mp3 not available)
 - 25:50 [167 Psalm 75 Genevan](/assets/psalms/167_Psalm_75_Genevan.mp3) (harmony)
-- 42:20 [231 Psalm 109b Penderi](/assetes/psalms/231_Psalm_109b_Penderi.mp3)
+- 42:20 [231 Psalm 109b Penderi](/assets/psalms/231_Psalm_109b_Penderi.mp3)
 - 47:15 337 Song of Jonah (mp3 not available)
 
 
 ### [Part 3b](/assets/audio/meo-2-6-22-p3_1b.mp3)
+- 0:00 184 Psalm 85 Calon Lan (harmony)
+
 ### [Part 3a](/assets/audio/meo-2-6-22-p3_1a.mp3)
+- 0:00 292  Psalm 131 The Isle of Mull
+- 10:40 269 Psalm 119 RUSSIA (harmony)
+- 24:00 191 Psalm 90 St. Anne (melody and harmony)
 ### [Part 4](/assets/audio/meo-2-6-22-p4.mp3)
+- 0:00 14 Psalm 6 NCG (harmony)
+- 23:25 205 Psalm 98 DESERT (harmony)
+- 39:00 134 Psalm 61 Suppliant
+- 47:20 69 Psalm 29 Wilbur
+- 49:50 37 Psalm 15 Sherwood
+- 51:30 38 Psalm 16 Monk's Gate
+- 54:10 330 Psalm 148 St. Catherine's
+- 47:05 422 Shalom, My Friends
+
 
 ![Michael Conducting](/assets/img/meo-sing-feb-2022.JPG)
