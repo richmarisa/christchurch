@@ -35,21 +35,21 @@ Yes, 3b comes before 3a :-)
 
 
 ### [Part 3b](/assets/audio/meo-2-6-22-p3_1b.mp3)
-- 0:00 184 Psalm 85 Calon Lan (harmony)
+- 0:00 [184 Psalm 85 Calon Lan](/assets/psalms/184_Psalm_85_Calon_Lan.mp3) (harmony)
 
 ### [Part 3a](/assets/audio/meo-2-6-22-p3_1a.mp3)
-- 0:00 292  Psalm 131 The Isle of Mull
-- 10:40 269 Psalm 119 RUSSIA (harmony)
-- 24:00 191 Psalm 90 St. Anne (melody and harmony)
+- 0:00 [292  Psalm 131 The Isle of Mull](/assets/psalms/292_Psalm_131_Isle_of_Mull.mp3)
+- 10:40 [269 Psalm 119 RUSSIA](/assets/psalms/269_Psalm_119_Russia.mp3) (harmony) [Soprano](/assets/psalms/Psalm_119_Russia_SOPRANO.mp3) [Alto](/assets/psalms/Psalm_119_Russia_ALTO.mp3) [Tenor](/assets/psalms/Psalm_119_Russia_TENOR.mp3) [Bass](/assets/psalms/Psalm_119_Russia_BASS.mp3)
+- 24:00 [191 Psalm 90 St. Anne](/assets/psalms/191_Psalm_90_St._Anne.mp3.mp3) (melody and harmony)
 ### [Part 4](/assets/audio/meo-2-6-22-p4.mp3)
-- 0:00 14 Psalm 6 NCG (harmony)
-- 23:25 205 Psalm 98 DESERT (harmony)
-- 39:00 134 Psalm 61 Suppliant
-- 47:20 69 Psalm 29 Wilbur
-- 49:50 37 Psalm 15 Sherwood
-- 51:30 38 Psalm 16 Monk's Gate
-- 54:10 330 Psalm 148 St. Catherine's
-- 47:05 422 Shalom, My Friends
+- 0:00 [14 Psalm 6 NCG](/assets/psalms/014_Psalm_6_NCG.mp3) (harmony)
+- 23:25 [205 Psalm 98 DESERT](/assets/psalms/205_Psalm_98_Desert.mp3) (harmony)
+- 39:00 [134 Psalm 61 Suppliant](/assets/psalms/134_Psalm_61_Sidney.mp3)
+- 47:20 [69 Psalm 29 Wilbur](/assets/psalms/069_Psalm_29_Wilbur.mp3)
+- 49:50 [37 Psalm 15 Sherwood](/assets/psalms/037_Psalm_15_Sherwood.mp3)
+- 51:30 [38 Psalm 16 Monk's Gate](/assets/psalms/038_Psalm_16_Monks_Gate.mp3)
+- 54:10 [330 Psalm 148 St. Catherines](/assets/psalms/330_Psalm_148_St._Catherines.mp3)
+- 47:05 422 Shalom, My Friends (mp3 not available)
 
 
 ![Michael Conducting](/assets/img/meo-sing-feb-2022.JPG)
