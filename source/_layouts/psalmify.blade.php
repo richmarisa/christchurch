@@ -328,7 +328,7 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = '/assets/psalms/',
+            mediaPath = mediapath,
             extension = '',
             tracks = window.playlist,
             buildPlaylist = $.each(tracks, function(key, value) {
